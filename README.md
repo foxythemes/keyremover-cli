@@ -1,13 +1,13 @@
 # jsonkey-remover-cli
 
-This is a command line client Json Key Remover, useful when you need remove a key on a specific JSON file.
+This is a JSON key-remover CLI, useful when you need remove a key on a specific JSON file.
 
 ## Getting Started
 
 *  Install with npm: `npm install jsonkey-remover-cli -D`
 *  Run it with `keyremover`
 
-## npm run / CLI
+## Docs
 
 ```	
 keyremover -s source-path/file.json -d dist-path/file.json -k keyToDelete
