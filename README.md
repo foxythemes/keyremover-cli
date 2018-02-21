@@ -1,6 +1,6 @@
 # jsonkey-remover-cli
 
-This is a command line client Key Remover, useful when you need remove a key on a specific JSON file.
+This is a command line client Json Key Remover, useful when you need remove a key on a specific JSON file.
 
 ## Getting Started
 
