@@ -1,10 +1,10 @@
-# keyremover-cli
+# jsonkey-remover-cli
 
 This is a command line client Key Remover, useful when you need remove a key on a specific JSON file.
 
 ## Getting Started
 
-*  Install with npm: `npm install @foxythemes/keyremover-cli -D`
+*  Install with npm: `npm install jsonkey-remover-cli -D`
 *  Run it with `keyremover`
 
 ## npm run / CLI
@@ -16,7 +16,7 @@ Basic options
 
 -s, --src    Source path of origin JSON file
 -d, --dest   Destination path of modified JSON file
--k, --key    Key that will be removed of JSON file
+-k, --key    Key that will be removed on JSON file
 
 ```
 
